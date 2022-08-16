@@ -7,13 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Maximilian Fünfgeld, PhD
+    name: Maximilian Fünfgeld
     tagline: CMIO
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     #email: hello@webjeda.com
-    citizenship: German
     website: youtube.com/c/Fuenfgeld #do not add http://
     linkedin: Fuenfgeld
     xing: Maximilian_Fuenfgeld
@@ -67,7 +66,7 @@ experiences:
        My mission is to  provide and maintain a safe and secure IT ecosystem for researchers and clinicians, where they can collect, store, analyze and share data from different sources, ranging from studies, registries, laboratories, health systems and public datasets. This includes the establishment and maintenance of a national data integration center, in close collaboration with national partners, to enable the gathering, management and dissemination of interoperable health data.
           - Design and maintain the IT ecosystem of the LIH in support of its research endeavors
           - Provide, develop and maintain software for data collection, annotation, analysis and sharing
-          - Provide data management solutions (e.g. data lake, data warehouse)
+          - Provide data infrastructure (e.g. data lake, data warehouse)
           - Ensure the security and confidentiality of the data in accordance with legal and ethical requirements
           - Professional and disciplinary guidance of four separate teams totalling 30 people
           - https://www.lih.lu/en/data-integration-and-analysis/
