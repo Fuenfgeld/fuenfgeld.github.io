@@ -29,10 +29,10 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Climbing
+      - item: Teaching
         link:
 
-      - item: Snowboarding
+      - item: Boardgames
         link:
 
       - item: Cooking
@@ -41,35 +41,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have a dual background in computer science and biochemistry, which gives me the ability to understand the data I am processing and to bridge the gap between researchers, medical doctors, and computer scientists. My main expertise is to work with biomedical data and integrate these in a way that makes them usable for data-driven applications. I am specialised in data management and data engineering and in using health data in a secure and GDPR compliant manner. 
+
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+      university: Hochschule Mannheim
+      time: 2017 - 2020
+
+    - degree: PhD in Biochemistry
+      university: Max Planck Institute for Molecular Plant Physiology, Potsdam
+      time: 2011 - 2016
+
+      - degree: MSc in Molecular Biology
+      university: Göttingen University
+      time: 2009 - 2011
+
+      - degree: BSc in Biology
+      university: ETH Zürich
       time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
