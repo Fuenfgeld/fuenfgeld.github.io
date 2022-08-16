@@ -19,6 +19,7 @@ sidebar:
     xing: Maximilian_Fuenfgeld
     github: Fuenfgeld
     twitter: '@mfuenfgeld'
+    youtube: youtube.com/c/Fuenfgeld
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -60,43 +61,51 @@ education:
       university: ETH Zürich
       time: 2007 - 2011
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Chief Medical Information Officer
+      time: 2021 - Present
+      company: Luxembourg Institute of Health, Luxembourg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+       My mission is to  provide and maintain a safe and secure IT ecosystem for researchers and clinicians, where they can collect, store, analyze and share data from different sources, ranging from studies, registries, laboratories, health systems and public datasets. This includes the establishment and maintenance of a national data integration center, in close collaboration with national partners, to enable the gathering, management and dissemination of interoperable health data.
+          - Design and maintain the IT ecosystem of the LIH in support of its research endeavors
+          - Provide, develop and maintain software for data collection, annotation, analysis and sharing
+          - Provide data management solutions (e.g. data lake, data warehouse)
+          - Ensure the security and confidentiality of the data in accordance with legal and ethical requirements
+          - Professional and disciplinary guidance of four separate teams totalling 30 people
+          - https://www.lih.lu/en/data-integration-and-analysis/
+    - role: Head of Medical Data Integration Center (DIC)
+      time: 2019 - 2021
+      company: Universitätsmedizin Mannheim, Mannheim
+      details: |
+         As the head of a medical data integration center I was leading a team to extract the raw data out of hospital primary systems and refine them for use in secondary research projects.
+          - Professional and disciplinary guidance of 15 people
+          - Preparation of project plans and monitoring of their implementation by the teams
+          - Budgeting, controlling, reporting and forecasting of various projects
+          - Design, implementation and strategic development of the DIC
+          - Data transfer from clinical supply systems to a data warehouse and processing of data analysis requests
+    - role: Data Engineer
+      time: 2018 - 2019
+      company: Universitätsmedizin Mannheim, Mannheim
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Architect for the archiving solution of the research data for the MIRACUM consortium
+          - Database design and management (PostgreSQL, MySQL)
+          - Development and orchestration of data pipelines (Airflow)
+          - Responsible for eCRFs, pseudonymisation and consent management
+ 
+    - role: Software Developer
+      time: 2016 - 2018
+      company: PTA GmbH, Mannheim
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Development of software for fully automated clinical lab systems for a client. The software is developed under FDA and the medical device regulatory framework.
+          - Design and development of a test framework for a project internal programming language (C#, JavaScript)
+          - Development of an autonomous decision algorithm for immunological test series
+          - Build Master for the project. Built and maintained the infrastructure to build and automatically test the software
+          - Agile Software Development using SCRUM
+          - Extensive experience in backend development (Oracle Database PL/SQL)
 projects:
     title: Projects
     intro: >
