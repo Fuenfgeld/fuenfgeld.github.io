@@ -84,7 +84,7 @@ experiences:
       time: 2018 - 2019
       company: Universitätsmedizin Mannheim, Mannheim
       details: |
-        I worked at the department of Biomedical Informatics building working at the medical data integration center.
+        I worked at the department of Biomedical Informatics.
           - Architect for the archiving solution of the research data for the MIRACUM consortium
           - Database design and management (PostgreSQL, MySQL)
           - Development and orchestration of data pipelines (Airflow)
