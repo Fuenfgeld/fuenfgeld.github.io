@@ -74,7 +74,7 @@ experiences:
       time: 2019 - 2021
       company: Universitätsmedizin Mannheim, Mannheim
       details: |
-         As the head of a medical data integration center I was leading a team to extract the raw data out of hospital primary systems and refine them for use in secondary research projects.
+         As the head of the medical data integration center I lead a team to extract the raw data out of hospital primary systems and refine them for use in secondary research projects.
           - Professional and disciplinary guidance of 15 people
           - Preparation of project plans and monitoring of their implementation by the teams
           - Budgeting, controlling, reporting and forecasting of various projects
@@ -84,11 +84,7 @@ experiences:
       time: 2018 - 2019
       company: Universitätsmedizin Mannheim, Mannheim
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Abteilung für Biomedizinische Informatik
           - Architect for the archiving solution of the research data for the MIRACUM consortium
           - Database design and management (PostgreSQL, MySQL)
           - Development and orchestration of data pipelines (Airflow)
