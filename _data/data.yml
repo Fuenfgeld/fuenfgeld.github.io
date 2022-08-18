@@ -14,6 +14,7 @@ sidebar:
     # Sidebar links
     #email: hello@webjeda.com
     website: youtube.com/c/Fuenfgeld #do not add http://
+    website: lih.lu/en/data-integration-and-analysis/
     linkedin: Fuenfgeld
     xing: Maximilian_Fuenfgeld
     github: Fuenfgeld
@@ -69,7 +70,6 @@ experiences:
           - Provide data infrastructure (e.g. data lake, data warehouse)
           - Ensure the security and confidentiality of the data in accordance with legal and ethical requirements
           - Professional and disciplinary guidance of four separate teams totalling 30 people
-          - https://www.lih.lu/en/data-integration-and-analysis/
     - role: Head of Medical Data Integration Center (DIC)
       time: 2019 - 2021
       company: Universitätsmedizin Mannheim, Mannheim
@@ -84,7 +84,7 @@ experiences:
       time: 2018 - 2019
       company: Universitätsmedizin Mannheim, Mannheim
       details: |
-        I worked at the department of Biomedical Informatics.
+        I worked at the department of Biomedical Informatics to build up the data integration center from scratch.
           - Architect for the archiving solution of the research data for the MIRACUM consortium
           - Database design and management (PostgreSQL, MySQL)
           - Development and orchestration of data pipelines (Airflow)
@@ -113,9 +113,12 @@ projects:
 publications:
     title: Publications and Awards
     intro: |
-    papers:
-      - title: DMEA Nachwuchspreis 2021
+   
+   papers:
+      - title: Award - DMEA Nachwuchspreis 2021 (Young Talent Award)
         link: "https://youtu.be/NwZH4jx1k2U"
+        authors: Maximilian Fünfgeld
+        conference: DMEA Connecting Digital Health Convention
         
     papers:
       - title: Sucrose synthases are not involved in starch synthesis in Arabidopsis leaves
