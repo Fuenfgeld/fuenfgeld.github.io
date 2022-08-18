@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     #email: hello@webjeda.com
-    website: lih.lu/en/data-integration-and-analysis/
     website: youtube.com/c/Fuenfgeld #do not add http://
     linkedin: Fuenfgeld
     xing: Maximilian_Fuenfgeld
@@ -118,7 +117,7 @@ publications:
       - title: Award - DMEA Nachwuchspreis 2021 (Young Talent Award)
         link: "https://youtu.be/NwZH4jx1k2U"
         authors: Maximilian Fünfgeld
-        conference: DMEA Connecting Digital Health Convention
+        conference: DMEA Connecting Digital Health Convention, 2021
         
    papers:
       - title: Sucrose synthases are not involved in starch synthesis in Arabidopsis leaves
