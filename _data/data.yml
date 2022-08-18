@@ -111,15 +111,14 @@ projects:
 
 publications:
     title: Publications and Awards
-    intro: |
-   
-   papers:
+    intro: |   
+    papers:
       - title: Award - DMEA Nachwuchspreis 2021 (Young Talent Award)
         link: "https://youtu.be/NwZH4jx1k2U"
         authors: Maximilian Fünfgeld
         conference: DMEA Connecting Digital Health Convention, 2021
         
-   papers:
+    papers:
       - title: Sucrose synthases are not involved in starch synthesis in Arabidopsis leaves
         link: "https://doi.org/10.1038/s41477-022-01140-y"
         authors: Fünfgeld MMFF, Wang W, Ishihara H, Arrivault S, Feil R, Smith AM, Stitt M, Lunn JE, Niittylä T.
