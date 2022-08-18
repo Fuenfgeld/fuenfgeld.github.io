@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     #email: hello@webjeda.com
-    website: youtube.com/c/Fuenfgeld #do not add http://
     website: lih.lu/en/data-integration-and-analysis/
+    website: youtube.com/c/Fuenfgeld #do not add http://
     linkedin: Fuenfgeld
     xing: Maximilian_Fuenfgeld
     github: Fuenfgeld
@@ -120,7 +120,7 @@ publications:
         authors: Maximilian Fünfgeld
         conference: DMEA Connecting Digital Health Convention
         
-    papers:
+   papers:
       - title: Sucrose synthases are not involved in starch synthesis in Arabidopsis leaves
         link: "https://doi.org/10.1038/s41477-022-01140-y"
         authors: Fünfgeld MMFF, Wang W, Ishihara H, Arrivault S, Feil R, Smith AM, Stitt M, Lunn JE, Niittylä T.
