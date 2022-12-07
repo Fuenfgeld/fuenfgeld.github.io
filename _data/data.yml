@@ -58,7 +58,7 @@ education:
 
     - degree: BSc in Biology
       university: ETH Zürich
-      time: 2007 - 2011
+      time: 2006 - 2009
 experiences:
     - role: Chief Medical Information Officer
       time: 2021 - Present
@@ -130,16 +130,16 @@ skills:
 
     toolset:
       - name: IT Management
-        level: 98%
+        level: 90%
 
       - name: IT Strategy
-        level: 98%
+        level: 90%
 
       - name: Medical Informatics
-        level: 98%
+        level: 90%
 
       - name: Data Management
-        level: 85%
+        level: 90%
 
       - name: Python
         level: 90%
