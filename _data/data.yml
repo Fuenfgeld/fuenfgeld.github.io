@@ -86,8 +86,8 @@ experiences:
       details: |
         I worked at the department of Biomedical Informatics to build up the data integration center from scratch.
           - Architect for the archiving solution of the research data for the MIRACUM consortium
-          - Database design and management (PostgreSQL, MySQL)
-          - Development and orchestration of data pipelines (Airflow)
+          - Database design and management
+          - Development and orchestration of data pipelines
           - Responsible for eCRFs, pseudonymisation and consent management
  
     - role: Software Developer
@@ -95,11 +95,11 @@ experiences:
       company: PTA GmbH, Mannheim
       details: |
         Development of software for fully automated clinical lab systems for a client. The software is developed under FDA and the medical device regulatory framework.
-          - Design and development of a test framework for a project internal programming language (C#, JavaScript)
+          - Design and development of a test framework for a project internal programming language 
           - Development of an autonomous decision algorithm for immunological test series
           - Build Master for the project. Built and maintained the infrastructure to build and automatically test the software
           - Agile Software Development using SCRUM
-          - Extensive experience in backend development (Oracle Database PL/SQL)
+          - Extensive experience in backend development
 projects:
     title: Projects
     intro: >
@@ -129,20 +129,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: IT Management
+      - name: IT Strategy and Implementation
+        level: 100%
+
+      - name: Team Leadership and Management
         level: 90%
 
-      - name: IT Strategy
+      - name: Budget and Financial Management
         level: 90%
 
-      - name: Medical Informatics
+      - name: Cybersecurity and Risk Management
         level: 90%
 
-      - name: Data Management
-        level: 90%
-
-      - name: Python
-        level: 90%
+      - name: Change Management and Digital Transformation
+        level: 80%
+        
+      - name: Stakeholder Management and Communication
+        level: 70%
+        
+      - name: Project and Program Management
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
