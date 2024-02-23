@@ -84,7 +84,6 @@ experiences:
       time: 2018 - 2019
       company: Universitätsmedizin Mannheim, Mannheim
       details: |
-        I worked at the department of Biomedical Informatics to build up the data integration center from scratch.
           - Architect for the archiving solution of the research data for the MIRACUM consortium
           - Database design and management
           - Development and orchestration of data pipelines
@@ -98,12 +97,9 @@ experiences:
           - Design and development of a test framework for a project internal programming language 
           - Development of an autonomous decision algorithm for immunological test series
           - Build Master for the project. Built and maintained the infrastructure to build and automatically test the software
-          - Agile Software Development using SCRUM
-          - Extensive experience in backend development
+          
 projects:
     title: Projects
-    intro: Selected Projects
-     
     assignments:
       - title: Clinova
         link: https://www.lih.lu/en/article/clinnova-to-launch-precision-medicine-initiative-across-europe/"
