@@ -102,13 +102,15 @@ experiences:
           - Extensive experience in backend development
 projects:
     title: Projects
-    intro: >
-      I teach a module in datamanagement at the master level at the faculty for computer science at the Hochschule Mannheim.
-    
+    intro: Selected Projects
+     
     assignments:
+      - title: Clinova
+        link: https://www.lih.lu/en/article/clinnova-to-launch-precision-medicine-initiative-across-europe/"
+        tagline: I drive the development of a transnational federated data infrastructure for Clinnova. Collaborate with international institutions and lead multidisciplinary teams to establish secure data governance and interoperability standards, enabling transformative precision medicine research.
       - title: Datenmanagement und Archivierung im Umfeld der Forschung
         link: "https://www.master-bids.hs-mannheim.de/studienangebot/datenmanagement-und-archivierung-im-umfeld-der-forschung-1.html"
-        tagline: "Master Biomedizinische Informatik und Data Science“."
+        tagline:  I teach a module in data management in the master program "Master Biomedizinische Informatik und Data Science“ at the faculty for computer science at the Hochschule Mannheim. 
 
 publications:
     title: Publications and Awards
@@ -129,6 +131,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Medical Informatics
+        level: 100%
+ 
       - name: IT Strategy and Implementation
         level: 100%
 
